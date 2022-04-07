@@ -1,1 +1,1 @@
-Everyone is a star.
+*Everyone is a star.*
