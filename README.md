@@ -1,6 +1,6 @@
 *Everyone is a star.*
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TNTksals&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TNTksals&show_icons=truetheme=dark)
 
 <!-- <div align="center"> -->
 <div>
