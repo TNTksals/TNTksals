@@ -1,4 +1,4 @@
-# *Everyone is a star.*
+*Everyone is a star.*
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TNTksals&show_icons=true&theme=ayu-mirage&hide_border=true)
 
